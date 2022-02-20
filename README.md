@@ -3,7 +3,7 @@ This is a Python script that links a couple of ThingM Blink(1) devices to Voicem
 
 https://user-images.githubusercontent.com/25163515/154858933-18b70cc5-0236-45dd-a144-afb4ed22fe23.mp4
 
-With this script, the lights now show a constant status of whether or not my microphone is muted and whether or not the speakers are muted.  The video demonstrates that the lights show the correct status whether Voicemeeter was muted using keyboard buttons or by clicking in the graphical user interface.
+With this script, the lights now show a constant status of whether or not the microphone is muted and whether or not the speakers are muted.  The video demonstrates that the lights show the correct status whether Voicemeeter was muted using keyboard buttons or by clicking in the graphical user interface.
 
 Some use cases include:
 * When making video recordings, you can be sure that your micrphone is live without having to check Voicemeeter directly
