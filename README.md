@@ -7,3 +7,12 @@ It uses these Python libraries: \
 https://github.com/chvolkmann/voicemeeter-remote-python \
 https://github.com/todbot/blink1-python
 
+Voicemeeter Links \
+https://vb-audio.com/Voicemeeter/
+[Voicemeeter C API PDF Download](https://download.vb-audio.com/Download_CABLE/VoicemeeterRemoteAPI.pdf) \
+[Voicemeeter macro buttons](https://forum.vb-audio.com/viewtopic.php?t=353) \
+
+Tiny 4-key keyboard \
+Amazon link: https://www.amazon.com/gp/product/B096Z5BR5L/ \ 
+Open source keyboard configurator: https://github.com/TabbycatPie/CustomKeyboard \
+
