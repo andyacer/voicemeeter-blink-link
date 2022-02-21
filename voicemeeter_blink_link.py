@@ -58,6 +58,7 @@ try:
 except voicemeeter.errors.VMRDriverError:
     print("Looks like Voicemeeter isn't running... starting it up now.")
     voicemeeter.launch(kind)
+    vmr.login()
 
 print("Voicemeeter interface established.")
 
@@ -97,3 +98,4 @@ while True:
         device2.close()
         vmr.logout()
         sys.exit()
+
