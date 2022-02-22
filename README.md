@@ -19,6 +19,9 @@ https://vb-audio.com/Voicemeeter/ \
 [Voicemeeter C API PDF Download](https://download.vb-audio.com/Download_CABLE/VoicemeeterRemoteAPI.pdf) \
 [Voicemeeter macro buttons](https://forum.vb-audio.com/viewtopic.php?t=353) 
 
+ThingM Blink(1) devices on Amazon \
+https://www.amazon.com/ThingM-Blink-USB-RGB-BLINK1MK3/dp/B07Q8944QK
+
 Tiny 4-key keyboard \
 Amazon link: https://www.amazon.com/gp/product/B096Z5BR5L/ \
 Open source keyboard configurator: https://github.com/TabbycatPie/CustomKeyboard 
